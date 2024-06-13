@@ -1,0 +1,22 @@
+.tech-era-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.course-container {
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 40px;
+  color: #1e293b;
+  font-weight: bold;
+}
+.course-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
